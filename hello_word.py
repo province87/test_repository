@@ -5,3 +5,4 @@ print("hello word！")
 print("hello")
 print("nihao"
 print("nihao"))
+print("niddddhao"))
